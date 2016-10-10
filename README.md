@@ -1,4 +1,4 @@
-# hackerrank-solutions
+# hackerrank.com Solutions
 
 Here are the solutions to each type of problem I've solved on hackerrank.com. 
 
